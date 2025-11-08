@@ -1,8 +1,12 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# User Sign Up Example
+---
+This is a basic example of a sign-up form for a website. This project was created with: 
+- ReactJS
+- HTML
+- CSS
+  
+The form asks a user for their full name, username, email address, home address, and phone number.
+![A picture of what the sign-up form looks like empty](empty-signup-form.jpg)
+---
+The website has basic functionality, so when the user puts in their information and submits the form, their information will only be displayed in the console.
+![A picture of what the form looks like filled and the console output](signup-form.jpg)
