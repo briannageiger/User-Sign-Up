@@ -1,5 +1,5 @@
 # User Sign Up Example
----
+
 This is a basic example of a sign-up form for a website. This project was created with: 
 - ReactJS
 - HTML
